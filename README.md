@@ -1,5 +1,5 @@
-##CSCI455 Introduction to Programming Systems Design
-####Project list:
+## CSCI455 Introduction to Programming Systems Design
+#### Project list:
 - PA1:
 - PA2:
 - PA3: 
